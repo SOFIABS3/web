@@ -1,12 +1,12 @@
 .contenedor{
     width: 100%;
     height: 1400px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(203, 28, 28);
 }
 .encabezado{
     width: 100%;
     height: 150px;
-    background-color: rgb(17, 12, 10);
+    background-color: rgb(235, 31, 218);
     font-size: 35px;
     text-align: center;
     color: rgb(252, 252, 252);
@@ -15,7 +15,7 @@
 .menu{
     width: 100%;
     height: 80px;
-    background-color: rgb(243, 229, 149);
+    background-color: rgb(234, 246, 102);
     display: flex;
 }
 .inicio {
@@ -62,28 +62,32 @@ margin: 2px;
     width: 20%;
     height: 1200px;
     background-color: rgba(231, 123, 195, 0.986);
-    background-image: url("at.JFIF");
+    background-image: url("hello\ kitty\ #1.jpg");
     background-repeat: no-repeat;
    
 }
 .centro{
-width: 60%;
-height: 1200px;
-background-color: rgb(255, 255, 255);
-font-size: 25px;
-text-align: center;
-color: rgb(0, 0, 0);
-font-family: Arial, Helvetica, sans-serif;
-background-image: url("lb.jpg");
-background-repeat: no-repeat;
-
+    width: 80%;
+    height: 1200px;
+    background-color:rgba(197, 123, 231, 0.986);
+    font-size: 25px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("hello.hpg.jpg.HPG");
+    background-repeat: no-repeat;
 }
+
 .derecha{
     width: 20%;
     height: 1200px;
-     background-color: rgb(231, 123, 195, 0.986);
-     font-size: 25px;
-     text-align: center;
-     color: aliceblue;
-     font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(231, 123, 195, 0.986);
+    font-size: 25px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("hello\ kitty\ #1.jpg");
+    background-repeat: no-repeat;
 }
+
+   
